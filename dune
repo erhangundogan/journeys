@@ -1,0 +1,3 @@
+(executable
+  (name journeys)
+  (libraries core))
